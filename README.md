@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on frontend projects<br>👯 I’m looking to collaborate on full stackprojects<br>🌱 I’m currently learning machine learning<br>💬 Ask me about football <br>⚡ Fun fact is I watch sports more than i code
+🔭 I’m currently working on frontend projects<br>👯 I’m looking to collaborate on full stackprojects<br>🌱 I’m currently learning machine learning<br>💬 Ask me about ReactJS <br>⚡ Fun fact is I watch sports more than i code
 
 
 # 💻 Tech Stack:
